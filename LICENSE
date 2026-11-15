@@ -1,0 +1,28 @@
+Dark Sun Online: Crimson Sands - Port (SDL2):
+Copyright (c) 2024-2026 crt0. All rights reserved.
+
+Redistribution and use of the compiled binaries (dso-win.exe) in original,
+unmodified form is permitted for personal, non-commercial use.
+Decompilation, reverse engineering, modification, or commercial redistribution
+of the port binaries without explicit permission from the author is prohibited.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+Disclaimer:
+This project is an unofficial, fan-made port and is not affiliated with,
+endorsed, or sponsored by the original developers, publishers, or current
+intellectual property holders. "Dark Sun" and "Dark Sun Online: Crimson Sands"
+are trademarks of their respective owners. No original game code or copyrighted
+assets are included in this distribution.
+---
+
+Third-Party Libraries:
+This distribution includes SDL2 and SDL2_mixer, which are licensed under
+the zlib License (https://libsdl.org).
